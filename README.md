@@ -4,3 +4,4 @@ These are very simple algorithms implemented in Elixir as a learning exercise. T
 
 Usage: `elixir algo_test.exs`
 
+This is a gift to the public domain
